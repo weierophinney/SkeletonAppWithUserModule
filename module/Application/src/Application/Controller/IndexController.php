@@ -9,6 +9,7 @@ class IndexController extends ActionController
 {
     public function indexAction()
     {
+        $plugin = $this->zfcUserAuthentication();
         return new ViewModel();
     }
 }
