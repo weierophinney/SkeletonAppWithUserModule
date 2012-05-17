@@ -4,3 +4,6 @@
 [submodule "vendor/ZfcUser"]
 	path = vendor/ZfcUser
 	url = https://github.com/weierophinney/ZfcUser.git
+[submodule "vendor/ZfcBase"]
+	path = vendor/ZfcBase
+	url = https://github.com/weierophinney/ZfcBase.git
